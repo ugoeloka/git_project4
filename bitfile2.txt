@@ -2,4 +2,3 @@ List of fruits;
 kiwi
 mango
 grape
-berry
